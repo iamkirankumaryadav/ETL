@@ -1,6 +1,6 @@
 ## **SAP Data Integration Workflows**
 
-- A GUI-based tool that enables users to create, manage, and monitor data integration processes.
+- A GUI-based tool that enables users to **create**, **manage**, and **monitor** data integration processes.
 - It provides a visual drag-and-drop environment for designing workflows.
 - Allowing users to define the data integration steps, such as data **extraction**, **transformation**, and **loading**.
 
@@ -14,7 +14,7 @@
 - Data integration tasks: data extraction, transformation, and loading.
 
 3. **Error Handling and Monitoring:**
-- Comprehensive error handling mechanisms ensure data integrity.
+- Comprehensive error handling mechanisms ensure **data integrity** (Accuracy and consistency).
 - Allow users to monitor workflow execution and troubleshoot issues promptly.
 
 5. **Scalability and Performance:** 
@@ -38,7 +38,7 @@
 11. **Version Control:**
 -  Version control enables users to track changes made to workflows and revert to previous versions if necessary.
 
-### **Data Integration Tasks**
+### **Data Integration Steps**
 
 1. **Extract data from a source system:**
 - Extract data from a source system, such as an SAP ERP system or a non-SAP database.
@@ -55,7 +55,7 @@
 **Benefits of Using SAP Data Integration Workflows**
 
 1. **Reduced development time:**
-- SAP Data Integration Workflows provides a graphical interface for defining data integration workflows, which can reduce the time it takes to develop these workflows.
+- SAP Data Integration Workflows provides a GUI for defining data integration workflows, which can reduce the time it takes to develop these workflows.
 
 2. **Improved workflow management:**
 - SAP Data Integration Workflows provides a variety of tools for managing data integration workflows, such as monitoring, logging, and alerting.
