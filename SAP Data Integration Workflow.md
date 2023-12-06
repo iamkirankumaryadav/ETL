@@ -8,14 +8,6 @@
 - SAP Data Integration Workflows can be scaled to handle large volumes of data by using **parallel processing** and **partitioning**.
 - It can also be scaled to handle a large number of users by using **load balancing**.
 
-### **Orchestration**
-
-**SAP Data Integration Workflows** can be orchestrated with other SAP and non-SAP systems using a variety of methods, such as:
-
-1. **Business Process Management (BPM):** SAP Data Integration Workflows can be triggered by BPM events.
-2. **SAP NetWeaver Business Eventing (NBE):** SAP Data Integration Workflows can subscribe to NBE events.
-3. **File-based messaging:** SAP Data Integration Workflows can read and write files to trigger other processes.
-
 **Example of a Scalable and Orchestrated Pipeline**
 
 1. **Extract data from a source system:**
