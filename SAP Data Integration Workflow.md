@@ -52,7 +52,7 @@
 - Load the data into a target system, such as an SAP BW system or a data warehouse.
 - This can be done using the SAP Data Integrator connector for the target system or using a custom script.
 
-**Benefits of Using SAP Data Integration Workflows**
+### **Benefits of Using SAP Data Integration Workflows**
 
 1. **Reduced development time:**
 - SAP Data Integration Workflows provides a GUI for defining data integration workflows, which can reduce the time it takes to develop these workflows.
