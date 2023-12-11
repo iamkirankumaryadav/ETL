@@ -40,7 +40,7 @@
 **Applications of SAP Data Intelligence:**
 
 1. **Customer Insights:** 
-- Analyze customer data to understand customer behavior, preferences, and trends, enabling targeted marketing campaigns and improved customer service.
+- Analyze customer data to understand customer behaviour, preferences, and trends, enabling targeted marketing campaigns and improved customer service.
 
 2. **Sales and Marketing Analytics:** 
 - Analyze sales data to identify sales trends, track campaign effectiveness, and optimize pricing strategies.
