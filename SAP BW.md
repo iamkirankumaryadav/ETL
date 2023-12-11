@@ -13,7 +13,7 @@
 - and loading it into the data warehouse for analysis.
 
 2. **Data Modeling:** 
-- A flexible data modeling framework, allowing users to define data structures and relationships to represent complex business entities.
+- A flexible data modelling framework, allowing users to define data structures and relationships to represent complex business entities.
 
 3. **Data Aggregation and Summarization:** 
 - Enables data aggregation and summarization, reducing data volume and simplifying analysis.
@@ -39,7 +39,7 @@
 - Facilitates data-driven decision-making, leading to improved operational efficiency, reduced costs, and increased revenue.
 
 3. **Enhanced Customer Insight:** 
-- Enables businesses to gain deeper insights into customer behavior, preferences, and trends, leading to improved customer satisfaction and loyalty.
+- Enables businesses to gain deeper insights into customer behaviour, preferences, and trends, improving customer satisfaction and loyalty.
 
 4. **Risk Management:** 
 - Helps businesses identify and manage potential risks by providing a comprehensive view of business operations and trends.
