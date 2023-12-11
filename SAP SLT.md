@@ -1,5 +1,5 @@
 ## SAP Landscape Transformation Replication Server (SLT) 
-
+- Support real-time replication of data from SAP or third-party systems to SAP HANA to run applications and analyse data quickly.
 - A data replication tool that enables real-time data synchronization between SAP and non-SAP systems.
 - It is part of the SAP Business Technology Platform (BTP) and helps organizations consolidate and integrate data from various sources into a centralized data repository.
 
