@@ -1,13 +1,13 @@
-## SAP HANA
+## SAP High-Performance ANalytic Appliance
 
 - **SAP High-Performance ANalytic Appliance** is a multi-model database platform. 
 - Provides a single, integrated solution for transactional and analytical workloads.
-- It is designed to handle large volumes of data in real time, making it ideal for real-time Analytics, ML, and AI applications.
+- It is designed to handle large volumes of data in real-time, making it ideal for real-time Analytics, ML, and AI applications.
 
 ### **Key Features of SAP HANA:**
 
 1. **In-memory Processing:** Stores data in memory, which significantly improves performance for transactional and analytical workloads.
-2. **Real-time Analytics:** Process data in real time, enabling businesses to make informed decisions based on the latest data.
+2. **Real-time Analytics:** Process data in real-time, enabling businesses to make informed decisions based on the latest data.
 3. **Machine Learning and AI:** A powerful platform for ML and AI applications, enabling businesses to gain insights from their data and make predictions.
 4. **Integration with SAP and Non-SAP Systems:** Integrates seamlessly with other SAP applications and non-SAP data sources.
 5. **Scalability:** Can be scaled to meet growing data and performance needs.
