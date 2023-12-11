@@ -1,4 +1,4 @@
-## SAP 
+## SAP Enterprise Central Component
 
 - **SAP Enterprise Central Component**, a core component of the legacy SAP Business Suite software suite.
 - It is an enterprise resource planning (ERP) system that provides a comprehensive set of functionalities for managing business processes across various industries.
