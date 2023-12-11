@@ -1,12 +1,12 @@
 ## SAP Landscape Transformation Replication Server (SLT) 
 
 - A data replication tool that enables real-time data synchronization between SAP and non-SAP systems.
-- It is part of the SAP Business Technology Platform (BTP) and helps organizations to consolidate and integrate data from various sources into a centralized data repository.
+- It is part of the SAP Business Technology Platform (BTP) and helps organizations consolidate and integrate data from various sources into a centralized data repository.
 
 ### **Key Features of SAP SLT:**
 
 1. **Real-time Data Replication:** 
-- Replicates data in real time, ensuring that target systems are always up-to-date with the latest changes in source systems.
+- Replicates data in real-time, ensuring that target systems are always up-to-date with the latest changes in source systems.
 
 2. **Bidirectional Data Replication:** 
 - Replicate data in both directions, enabling two-way data synchronization between systems.
