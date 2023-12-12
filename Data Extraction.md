@@ -1,4 +1,4 @@
-## Extration
+## Extraction
 
 - ETL data extraction is the first step in the ETL process, which stands for **extract**, **transform**, and **load**. 
 - It involves retrieving data from various sources, such as **databases**, **flat files**, **log files**, and **APIs**.
